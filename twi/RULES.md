@@ -1,5 +1,7 @@
 # 1F616EMO Server Rules
 
+Author: 1F616EMO; Status: Repealed; Replaced: 1F616EMO Survival Server Rules (Ver. 2)
+
 1. Under no circumstances is bullying, harassment, racism, homophobia, threats, hacking attacks, defamation, doxxing, or similar behavior allowed. The dignity of each individual must be respected.<br />These rules especially apply to usernames, chat rooms, and any in-game mechanisms that display custom text.
 2. Spamming, advertising, and any other misuse of chat rooms are prohibited.
 3. Destruction of others' buildings without the owner's permission is not allowed.
