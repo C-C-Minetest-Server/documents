@@ -1,0 +1,35 @@
+Subject: Notice of Chat Privilege Revocation Due to Violation of Server Conduct Rules
+
+
+Dear tres,
+
+I am sorry that your right to speak in the public chatroom has been revoked. The following facts made the decision:
+
+1. discrimination
+Any discriminatory acts are prohibited on this server. Discrimination is part of the "other similar behaviors" against the "players should be supportive of each other" regulation. This modification [1] further clarified this.
+
+Chat messages involving discrimination include:
+
+<tres> shut up [redacted]
+<tres> I [redacted] player4
+
+
+2. treating
+The act of threatening others is prohibited. Chat messages involving threats were mainly done toward clem, and are listed below:
+
+<tres> fine looks like I'm [redacted]
+
+
+As threatening acts were involved, the chat logs were removed from the Telegram chatroom. As a reference. the chat log is backed up on my server [2].
+
+Please do not conduct such acts in the future. The minimum sentence is roughly one and a half days, ending on 2024-03-14 at noon in the Hong Kong timezone (UTC+8).
+If you want to appeal, or you believe you will no longer conduct such an act, you may reply to this mail or by typing /report in the chatroom.
+
+Yours truly,
+1F616EMO
+
+Decision made according to rules v2 commit b652af4a2a262d9fc3ec69bb1c3ea55d9345f98a [3]
+
+[1]: https://github.com/C-C-Minetest-Server/documents/commit/dee14fc9bf9f55d1428bcc9194e38425fa91dfb
+[2]: [redacted]
+[3]: https://github.com/C-C-Minetest-Server/documents/blob/b652af4a2a262d9fc3ec69bb1c3ea55d9345f98a/twi/RULES_v2.md
