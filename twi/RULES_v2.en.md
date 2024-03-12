@@ -15,7 +15,7 @@ The section is enacted to define the scope of the rules, the person having the r
 
 The section is enacted to regulate the behavior of players and prohibit behaviors that harm others.
 
-1. Players should be supportive of each other and should not engage in bullying, harassment, racism, homophobia, transphobia, threats, hacking, defamation, doxing, or other similar behaviors.
+1. Players should be supportive of each other and should not engage in bullying, harassment, racism, discrimination, threats, hacking, defamation, doxing, or other similar behaviors.
 2. Abuse of chat rooms or any mechanism that can display custom text, such as spamming and advertising, is prohibited.
 3. The following topics are prohibited from being discussed in the server, or being mentioned in any mechanism that can display custom text:
     1. Drug abuse for recreation or self-harming;
