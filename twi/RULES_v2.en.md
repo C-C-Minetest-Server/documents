@@ -17,13 +17,14 @@ The section is enacted to regulate the behavior of players and prohibit behavior
 
 1. Players should be supportive of each other and should not engage in bullying, harassment, racism, discrimination, threats, hacking, defamation, doxing, or other similar behaviors.
 2. Abuse of chat rooms or any mechanism that can display custom text, such as spamming and advertising, is prohibited.
-3. The following topics are prohibited from being discussed in the server, or being mentioned in any mechanism that can display custom text:
+3. The username of a player shall not be used to pretend to be another player.
+4. The following topics are prohibited from being discussed in the server, or being mentioned in any mechanism that can display custom text:
     1. Drug abuse for recreation or self-harming;
     2. The intake or usage of prohibited drugs, including cannabis, unless the mentioned act is legal or is part of the in-game mechanisms;
     3. Suicide or self-harming, unless they are discussed for preventing such acts.
-4. Unauthorized theft or destruction of another person's property, such as damaging other's buildings without their permission, is prohibited.
-5. Unnecessary damage to the environment shall be avoided.
-6. Any attempts to circumvent bans are prohibited.
+5. Unauthorized theft or destruction of another person's property, such as damaging other's buildings without their permission, is prohibited.
+6. Unnecessary damage to the environment shall be avoided.
+7. Any attempts to circumvent bans are prohibited.
 
 ## 3. Moderation Team Rules
 
@@ -41,8 +42,14 @@ The section is enacted to define the privileges and limitations of the Moderatio
 5. If a player's violation of the rules causes losses to other players, the management team may take items equivalent to the amount of loss from the property of the violator and use them to compensate the victim. However, this article shall not apply if the loss has been dealt with in accordance with article (4) in this section.
 6. If any player has any objection to the operation of the management team, they can appeal to the server owner; the server owner has the right to decide whether to accept the appeal and to designate others to accept the appeal.
 
-## Appendix 1. Interpretation of the rules
+## 4. Establishment of Supplementary Rules
 
-This section contains interpretations that are not directly applied to the rules by modifying the rules.
+This section is established to regulate the creation, amendment, and repeal of supplementary rule documents outside of this document.
 
-*There are currently no interpretations of the rules. The server owner has the right to interpret the rules.*
+1. The server owner has the right to establish, modify, or repeal supplementary rules.
+2. The regulations concerning rules in this document also apply to the supplementary rules.
+3. If any clause in the supplementary rules conflicts with the rules of this document, unless otherwise indicated by the context, the rules of this document shall prevail.
+
+## Appendix 1. *(repealed)*
+
+## Appendix 2. List of Supplementary Rules
