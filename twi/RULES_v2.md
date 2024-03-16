@@ -53,3 +53,5 @@
 ## 附錄一、*（廢除）*
 
 ## 附錄二、附則列表
+
+1. Supplementary Rules 1 of 2024: Newcomers' Settlements Rules

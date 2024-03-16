@@ -15,7 +15,7 @@ The section is enacted to define the scope of the rules, the person having the r
 
 The section is enacted to regulate the behavior of players and prohibit behaviors that harm others.
 
-1. Players should be supportive of each other and should not engage in bullying, harassment, racism, discrimination, threats, hacking, defamation, doxing, or other similar behaviors.
+1. Players should be supportive of each other and should not engage in bullying, harassment, racism, diDraftscrimination, threats, hacking, defamation, doxing, or other similar behaviors.
 2. Abuse of chat rooms or any mechanism that can display custom text, such as spamming and advertising, is prohibited.
 3. The username of a player shall not be used to pretend to be another player.
 4. The following topics are prohibited from being discussed in the server, or being mentioned in any mechanism that can display custom text:
@@ -53,3 +53,5 @@ This section is established to regulate the creation, amendment, and repeal of s
 ## Appendix 1. *(repealed)*
 
 ## Appendix 2. List of Supplementary Rules
+
+1. Supplementary Rules 1 of 2024: Newcomers' Settlements Rules
