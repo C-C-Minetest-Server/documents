@@ -28,6 +28,7 @@ In this rules, unless the context otherwise requires-
     4. returning the money the owner paid for the plot; and
     5. selling the plot at its original price.
 2. After finishing the acts defined in section (1), the newcomers' settlement plot should be treated as if it is not sold.
+3. If agreed by the owner of a newcomers' settlement plot, moderators may revoke the ownership of the plot from that player. Unless otherwise agreed, the revocation regulations defined in this part apply to the revocation act defined in this section.
 
 ## 4. Prohibiting non-occupation of newcomers' settlement plots
 
