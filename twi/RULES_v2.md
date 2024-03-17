@@ -54,4 +54,4 @@
 
 ## 附錄二、附則列表
 
-1. Supplementary Rules 1 of 2024: Newcomers' Settlements Rules
+1. Subsidiary Rules 1 of 2024: Newcomers' Settlements Rules

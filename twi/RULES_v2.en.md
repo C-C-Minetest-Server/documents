@@ -42,16 +42,16 @@ The section is enacted to define the privileges and limitations of the Moderatio
 5. If a player's violation of the rules causes losses to other players, the management team may take items equivalent to the amount of loss from the property of the violator and use them to compensate the victim. However, this article shall not apply if the loss has been dealt with in accordance with article (4) in this section.
 6. If any player has any objection to the operation of the management team, they can appeal to the server owner; the server owner has the right to decide whether to accept the appeal and to designate others to accept the appeal.
 
-## 4. Establishment of Supplementary Rules
+## 4. Establishment of Subsidiary Rules
 
-This section is established to regulate the creation, amendment, and repeal of supplementary rule documents outside of this document.
+This section is established to regulate the creation, amendment, and repeal of subsidiary rule documents outside of this document.
 
-1. The server owner has the right to establish, modify, or repeal supplementary rules.
-2. The regulations concerning rules in this document also apply to the supplementary rules.
-3. If any clause in the supplementary rules conflicts with the rules of this document, unless otherwise indicated by the context, the rules of this document shall prevail.
+1. The server owner has the right to establish, modify, or repeal subsidiary rules.
+2. The regulations concerning rules in this document also apply to the subsidiary rules.
+3. If any clause in the subsidiary rules conflicts with the rules of this document, unless otherwise indicated by the context, the rules of this document shall prevail.
 
 ## Appendix 1. *(repealed)*
 
 ## Appendix 2. List of Supplementary Rules
 
-1. Supplementary Rules 1 of 2024: Newcomers' Settlements Rules
+1. Subsidiary Rules 1 of 2024: Newcomers' Settlements Rules

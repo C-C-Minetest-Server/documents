@@ -1,4 +1,4 @@
-# Supplementary Rules 1 of 2024: Newcomers' Settlements Rules
+# Subsidiary Rules 1 of 2024: Newcomers' Settlements Rules
 
 Author: 1F616EMO; State: Effective; Date effective: 16 March 2024
 
