@@ -1,6 +1,6 @@
 # 1F616EMO Survival Server Rules (Ver. 2)
 
-Author: 1F616EMO; Status: Effective; Date effective: 6 March 2024; Original language: Traditional Chinese
+Author: 1F616EMO; Status: Effective; Date effective: 6 March 2024
 
 ## 1. Basic Rules
 
