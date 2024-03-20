@@ -8,7 +8,7 @@ The section is enacted to define the scope of the rules, the person having the r
 
 1. This rule applies to 1F616EMO Survival Server (`mt-twi.1f616emo.xyz:32000`).
 2. For any articles binding on players, if that player is the server owner, the article shall be interpreted as if it is a non-binding advice.
-3. The server owner has the final say on the server and has the right to interpret and modify the rules at any time, and to grant or revoke privileges. The server owner's interpretation of the rules shall be considered part of the rules.
+3. The server owner has the final say on the server and has the right to interpret and modify the rules at any time, and to grant or revoke privileges.<br />Any rights held by the server owner can be granted to others, and such authorization can be revoked at any time.
 4. Any conduct violating the [Hong Kong laws](https://www.elegislation.gov.hk/) is prohibited. Unless the context otherwise requires, if "law" or any related words are used in any articles, they shall be interpreted as the Hong Kong laws.<br />Hong Kong laws include any laws applicable to Hong Kong, such as the [Constitution](https://flk.npc.gov.cn/xf/html/xf2.html), regardless of whether they are enacted by the legislative body in Hong Kong.<br />The provision of article (2) of this section shall not apply to this article.
 
 ## 2. Code of Conduct
