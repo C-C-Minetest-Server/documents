@@ -35,6 +35,7 @@ To define the distribution of properties owned by a player who had permanently l
 1. If a player did not leave a will, or according to Section 3 of Part 2, the properties left behind -
     1. For items, put them into the non-locked chests of a charity, as if the owner did so;
     2. For immovables, transfer their ownership to the server owner.
+2. For Section 1(1), if doing so on all the items is impractical, such an act can be conducted periodically each time on a portion of the items; the items not yet processed should be left as-is.
 
 ## Schedule 1: List of Charities
 
