@@ -22,7 +22,9 @@ The section is enacted to regulate the behavior of players and prohibit behavior
     1. Drug abuse for recreation or self-harming;
     2. The intake or usage of prohibited drugs, including cannabis, unless the mentioned act is legal or is part of the in-game mechanisms;
     3. Suicide or self-harming, unless they are discussed for preventing such acts;
-    4. Political topics.
+    4. political topics;
+    5. advocation of violence; and
+    6. pornography.
 5. Unauthorized theft or destruction of another person's property, such as damaging other's buildings without their permission, is prohibited.
 6. Unnecessary damage to the environment shall be avoided.
 7. Any attempts to circumvent bans are prohibited.
