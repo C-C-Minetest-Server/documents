@@ -22,10 +22,7 @@ The section is enacted to regulate the behavior of players and prohibit behavior
     1. Drug abuse for recreation or self-harming;
     2. The intake or usage of prohibited drugs, including cannabis, unless the mentioned act is legal or is part of the in-game mechanisms;
     3. Suicide or self-harming, unless they are discussed for preventing such acts;
-    4. Political topics related to:
-        1. Mainland China, Hong Kong, Macau and Taiwan Area;
-        2. The *de jure* and *de facto* government and regional government of the above locations; and
-        3. The *de jure* and *de facto* historical government and regional government of the above locations.
+    4. Political topics.
 5. Unauthorized theft or destruction of another person's property, such as damaging other's buildings without their permission, is prohibited.
 6. Unnecessary damage to the environment shall be avoided.
 7. Any attempts to circumvent bans are prohibited.
