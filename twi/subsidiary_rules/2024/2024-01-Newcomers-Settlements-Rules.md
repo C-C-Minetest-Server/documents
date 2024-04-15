@@ -13,6 +13,8 @@ In this rules, unless the context otherwise requires-
 3. ***owner***, when discussing the ownership of a newcomers' settlement plot-
     1. if sold, means the player who was granted ownership of the plot; and
     2. if not, means the moderator who allocated or built the plot.
+4. ***pre-built houses***, as a type of newcomers' settlement plots, mean plots sold with pre-built buildings.
+5. ***free-building plots***, as a type of newcomers' settlement plots, mean plots that are not pre-built houses.
 
 ## 2. Transfer of ownership of newcomers' settlement plots
 
@@ -33,13 +35,24 @@ In this rules, unless the context otherwise requires-
 ## 4. Prohibiting non-occupation of newcomers' settlement plots
 
 1. If a newcomers' settlement plot is left unoccupied for at least 4 days, moderators could revoke the owner's ownership of the plot.
-2. The time of non-occupation of a newcomers' settlement plot should be counted from (whichever the later)-
-    1. The time the owner was granted the ownership of the plot; or
-    2. The time the plot starts to not have any meaningful buildings.
+2. If a player bought a newcomers' settlement plot, the time of non-occupation should be counted from when they purchased the plot.
+3. The definition of "non-occupation" is -
+    1. For pre-built houses -
+        1. The interior or exterior of the pre-built house was not modified; and
+        2. The storages (e.g. chests) given upon purchase were not used.
+    2. For free-building plots - The plots were not modified.
+4. The following actions shall not be deemed as an act of modifying the plot -
+    1. Replacing, editing, or removing any signs given upon purchase;
+    2. Removing any blocks used to hold the signs up;
+    3. Placing down a mailbox owned by the plot owner or one of the co-owners;
+    4. Placing down any blocks for supporting the mailboxes;
+    5. (for free-building plots) removing the outer fences of the plot; and
+    6. Reverting any acts mentioned above.
+5. After the modification of the Rules or any subsidiary rules, if a plot is deemed non-occupied but was not deemed so under the old rules, the time of non-occupation shall be considered to be the time the new rules are enacted.
 
 ## 5. Revoking the ownership of newcomers' settlement plots used to conduct rules-violating acts
 
-1. If a player violates the rules, and one or some of their newcomers' settlement plot(s) are used to conduct such an act, moderators could revoke the owner's ownership of the plot(s), but not return the money the owner paid for the plot(s).
+1. If a player violates the rules, and one or some of their newcomers' settlement plot(s) are used to conduct such an act, moderators could revoke the owner's ownership of the plot(s) without returning the money the owner paid for the plot(s).
 2. The revocation of the owner's ownership of a newcomers' settlement plot to be done according to section (1) should be on hold until-
     1. 4 days had passed starting from the time of the violation; and
     2. no appeals against the case are ongoing; and
