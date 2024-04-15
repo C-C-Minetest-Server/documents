@@ -8,13 +8,13 @@ To prevent and penalize the abuse of newcomers' settlement plots and to grant th
 
 In this rules, unless the context otherwise requires-
 
-1. ***newcomers' settlements*** mean all locations listed in [Appendix 1](#appendix-1-list-of-newcomers-settlements);
-2. ***newcomers' settlement plots*** mean any land or apartments in the newcomers' settlements allocated or built for sale by players who at the time were part of the moderation team, whether already sold or not;
-3. ***owner***, when discussing the ownership of a newcomers' settlement plot-
+1. ***newcomers' settlement plots*** mean protection areas listed in [Schedule 2](#schedule-2-list-of-newcomers-settlement-plots);
+2. ***owner***, when discussing the ownership of a newcomers' settlement plot-
     1. if sold, means the player who was granted ownership of the plot; and
     2. if not, means the moderator who allocated or built the plot.
+3. ***apartments***, as a type of newcomers' settlement plots, mean plots that are part of a larger building.
 4. ***pre-built houses***, as a type of newcomers' settlement plots, mean plots sold with pre-built buildings.
-5. ***free-building plots***, as a type of newcomers' settlement plots, mean plots that are not pre-built houses.
+5. ***free-building plots***, as a type of newcomers' settlement plots, mean plots that are neither apartments nor pre-built houses.
 
 ## 2. Transfer of ownership of newcomers' settlement plots
 
@@ -37,17 +37,16 @@ In this rules, unless the context otherwise requires-
 1. If a newcomers' settlement plot is left unoccupied for at least 4 days, moderators could revoke the owner's ownership of the plot.
 2. If a player bought a newcomers' settlement plot, the time of non-occupation should be counted from when they purchased the plot.
 3. The definition of "non-occupation" is -
-    1. For pre-built houses -
+    1. For apartments and pre-built houses -
         1. The interior or exterior of the pre-built house was not modified; and
         2. The storages (e.g. chests) given upon purchase were not used.
     2. For free-building plots - The plots were not modified.
 4. The following actions shall not be deemed as an act of modifying the plot -
     1. Replacing, editing, or removing any signs given upon purchase;
-    2. Removing any blocks used to hold the signs up;
-    3. Placing down a mailbox owned by the plot owner or one of the co-owners;
-    4. Placing down any blocks for supporting the mailboxes;
-    5. (for free-building plots) removing the outer fences of the plot; and
-    6. Reverting any acts mentioned above.
+    2. Placing down a mailbox owned by the plot owner or one of the co-owners;
+    3. Placing down any blocks for supporting the mailboxes;
+    4. (for free-building plots) digging away any blocks given upon purchase; and
+    5. Reverting any acts mentioned above.
 5. After the modification of the Rules or any subsidiary rules, if a plot is deemed non-occupied but was not deemed so under the old rules, the time of non-occupation shall be considered to be the time the new rules are enacted.
 
 ## 5. Revoking the ownership of newcomers' settlement plots used to conduct rules-violating acts
@@ -59,7 +58,9 @@ In this rules, unless the context otherwise requires-
     3. 4 days had passed starting from the time all appeals against the case had ended, if any were filed.
 3. After the revocation of the owner's ownership of a newcomers' settlement plot according to section (1), if the player is eventually found not guilty of the violation, the moderator who revoked the ownership should return the ownership of the area, as if it was never revoked.
 
-## Appendix 1. List of newcomers' settlements
+## Schedule 1. *(repealed)*
 
-1. Plain Houses Area, Spawn County
-2. Spawn South Area, Spawn County
+## Schedule 2. List of newcomers' settlement plots
+
+1. Apartment protection areas and pre-built houses protection areas sold by 1F616EMO or RelaxingPlay at Plain Houses Area, Spawn County.
+2. Free-building plot protection areas sold by 1F616EMO at Spawn South Area, Spawn County.
