@@ -39,7 +39,7 @@ In this rules, unless the context otherwise requires-
     2. stayed semi-occupied for more than 15 days.
 2. If a player bought a newcomers' settlement plot, the above dates should be counted from when they purchased it.
 3. In this part, ***occupied*** means -
-    1. (For free-building plots) Having a complete building on the plot; or
+    1. (For free-building plots) Having a meaningful building on the plot; or
     2. Having items inside storage nodes given upon purchase, if any.
 4. In this part, ***semi-occupied*** means -
     1. Modified the plot, and such modification is not any of the following acts:
