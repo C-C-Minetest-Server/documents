@@ -1,6 +1,6 @@
 # 1F616EMO Survival Server Rules (Ver. 2)
 
-Author: 1F616EMO; Status: Effective; Date effective: 6 March 2024
+Author: 1F616EMO; Status: Repealed; Date effective: 6 March 2024; Date repealed: 20 June 2024; Replaced by: <https://wiki-twi.1f616emo.xyz/wiki/Project:Rules>
 
 ## 1. Basic Rules
 
