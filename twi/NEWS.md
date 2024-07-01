@@ -23,6 +23,55 @@ Other clients are not supported.
 
 ---
 
+## Updates 2024-06-15
+
+* Fix thin texture on flat wooden bar side (C-C-Minetest-Server/minetest\_errata@6487929)
+* Fix node digging grouops and sounds of facade nodes (TumeniNodes/facade#20)
+* Added maple trees
+
+## Updates 2024-06-14
+
+* Introduced Advtrains train type: JR E231, Classic Coaches
+    * Added JR E231 Series to the Admin Shop
+
+## Updates 2024-06-15 *[sic]*
+
+* Fixed positional stereo sound of Ander's Cross
+    * https://lists.sr.ht/~gpcf/advtrains-devel/patches/53262
+
+## Updates 2024-06-12
+
+* Fixed conducted one way tube crafting recipe
+* Updated phonograph UI
+
+## Updates 2024-06-09
+
+* Made 8 plots available for sale at Spawn South. The teleport pad at Spawn now points there.
+
+## Updates 2024-06-06
+
+* Added tutorial for Advanced Trains (showing up when visiting stations)
+
+## Updates 2024-06-05
+
+* Added ATMs (disabled by default) and For Sale Signs to the interactive map
+
+## Updates 2024-06-04
+
+* 
+* Added more pipeworks tubes: (only listing the craftable ones)
+    * Decelerating Pneumatic Tube Segment
+    * Low Priority Tube Segment
+    * Straight Only Tube (with Mesecons, Digilines, and Mesecons Digilines variants)
+    * One Way Tube (Mesecons, Digilines, and Mesecons Digilines variants)
+
+## Updates 2024-06-03
+
+* The online interactive map is now online.
+* Protection violations when placing down and catching bugs are now properly handled. (minetest/minetest\_game#3125)
+* Fixed data of the track Farmer by Exhale & Tim Unwin in VoxelLibre Ambiences
+* Added short descriptions for VoxelLibre Ambiences
+
 ## Updates 2024-06-16
 
 * Added Fumo Plush: Cirno (WhatsApp variant), Hatsune Miku
