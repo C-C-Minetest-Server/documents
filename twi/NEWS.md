@@ -23,6 +23,73 @@ Other clients are not supported.
 
 ---
 
+## Updates 2024-06-30
+
+* Fixed TCB marker leaving behind after TCB removal (https://lists.sr.ht/~gpcf/advtrains-devel/patches/53601)
+* Fixed positional stereo sound of animals (ElCeejo/animalia#98)
+* Increased radius of track-searching in Advanced Trains tutorial triggering (C-C-Minetest-Server/teacher\_tutorial\_advtrains@5446d52)
+
+## Updates 2024-06-29
+
+* Added wooden buckets for water (C-C-Minetest-Server/wooden\_bucket)
+* Added the following fonts to signs/banners:
+    * OldWizard (pyrollo/font_oldwizard)
+    * Botic (pyrollo/font_botic)
+* Fixed node sounds of cottage nodes (C-C-Minetest-Server/cottages@9eb2fee)
+* Tweaked rate of grass dropping seeds (codeberg.org:tenplus1/farming@37ea21fdaf~e33dd0e275)
+
+## Updates 2024-06-28
+
+* Improvements of cottage ropes: (C-C-Minetest-Server/cottages@44947c6)
+    * Allowed ropes to be dug without supportings
+    * Modified the selection box so it matches the texture
+* Added alloying recipe of crystal ingots (C-C-Minetest-Server/twi\_mods@081ce58)
+
+## Updates 2024-06-26
+
+* Allowed dry dirt with dry grass to spread (C-C-Minetest-Server/twi\_mods@4825e85)
+* Fix travelnet disappearing after editing w/o moving network (C-C-Minetest-Server/travelnet\_redo@24fc096)
+
+## Updates 2024-06-25
+
+* Added tutorials unlocked upon buying plot (C-C-Minetest-Server/twi\_mods:teacher\_tutorial\_post\_buying\_plot)
+
+## Updates 2024-06-23
+
+* Travelnets now sorts case-insensitively (C-C-Minetest-Server/travelnet\_redo@6ebdf2b)
+* Added license notice page into travelnet UIs (C-C-Minetest-Server/travelnet\_redo@5cd8acd)
+
+## Updates 2024-06-22
+
+* Allowed editing existing travelnets (C-C-Minetest-Server/travelnet\_redo@ca1dd9a)
+* Added sort keys for travelnets (C-C-Minetest-Server/travelnet\_redo@6cbc65c~e9de28c)
+* Added crafting recipe of cyan travelnets (mt-mods/xcompat#31)
+* Added hiking signs (C-C-Minetest-Server/hiking)
+    * Unlike upstream, hiking signs can be placed by anyone.
+
+## Updates 2024-06-21
+
+* Added tutorial and HUD for new players to know how to use the chatroom (C-C-Minetest-Server/twi\_mods:chatroom\_tutorial)
+    * The previously proposed "no chat no interact" is replaced by this one.
+* Added travelnet (but not elevators) (C-C-Minetest-Server/travelnet_redo)
+
+## Updates 2024-06-20
+
+* Simplified the rules, and hosted it on the Wiki (https://wiki-twi.1f616emo.xyz/wiki/Project:Rules)
+* Slightly tweaked Phonograph playing rules (C-C-Minetest-Server/phonograph@2f67f6a)
+* Added instructions to ATM GUI (C-C-Minetest-Server/um_atm@1eb2cfe)
+
+## Updates 2024-06-17
+
+* Reduced lag when emerging new chunks (C-C-Minetest-Server/fix\_floating@569c5cb)
+    * Emerging block is still slow, but it no longer block other activities
+* Digtron controller now shows the name of missing building materieal (minetest-mods/digtron#103)
+
+## Updates 2024-06-16
+
+* Added Fumo Plush: Cirno (WhatsApp variant), Hatsune Miku
+    * C-C-Minetest-Server/fumoplushies@7f20823, upstream: upsidedownsweetfood/FumoPlushiesMT@52f1722
+
 ## Updates 2024-06-15
 
 * Fix thin texture on flat wooden bar side (C-C-Minetest-Server/minetest\_errata@6487929)
