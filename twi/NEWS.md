@@ -23,6 +23,163 @@ Other clients are not supported.
 
 ---
 
+## Updates 2024-10-11
+
+* Added Saber plushie from Fate/stay night (C-C-Minetest-Server/fumoplushies@6c682d3)
+* Web panel for resetting password (C-C-Minetest-Server/webpanel)
+
+## Updates 2024-10-06
+
+* The post office is open!
+* Advtrains: Added speed signs for speeds >= 20 m/s (https://lists.sr.ht/~gpcf/advtrains-devel/patches/55351)
+
+## Updates 2024-10-04
+
+* Allow enabling volumetric lighting (rollerozxa/volumetric-lighting)
+* Remove dirts obtainable via crystal shovels from digtron builder substitution table (C-C-Minetest-Server/twi\_mods@60ba926)
+* Send tips when newcomers send "spawn", "escape" or "stuck" (C-C-Minetest-Server/twi\_mods@48865e6)
+* Increased top speed of Advtrains E231 series to 30 m/s (C-C-Minetest-Server/twi\_mods@27dedc1)
+
+## Updates 2024-09-30
+
+* Advtrains: Allow creating new routes from existing ones (https://lists.sr.ht/~gpcf/advtrains-devel/patches/55253)
+
+## Updates 2024-09-27
+
+* Send background musics dynamically (C-C-Minetest-Server/twi\_mods@8194039)
+* Added Stepping Pebbles (No Drums) by Matthew Pablo to Spawn day BGM (C-C-Minetest-Server/twi\_mods@9dfb1ad)
+* Added Path to Lake Land by Alexandr Zhelanov to Spawn night BGM (C-C-Minetest-Server/twi\_mods@9520735)
+* Attempt to fix newcomers missing basic privileges except `public\_farm` (C-C-Minetest-Server/twi\_mods@95061bc)
+* Added admin shop for LuaATC Components, avaliable only to LuaATC operators (C-C-Minetest-Server/twi\_mods@b24185f)
+
+## Updates 2024-09-21
+
+* Changes on John Oestmann's Phonograph albums: (C-C-Minetest-Server/phonograph\_album\_john\_oestmann)
+    * Added _Soundworlds Racing: Cruises I_ (@23d0108)
+    * Added _Soundworlds Datapedia: Sigmir Ambient_ (@5743c6d)
+    * Altered short title of existing albums (@8da2075)
+
+## Updates 2024-09-15
+
+* Fixed area boundary display on punching protector blocks (C-C-Minetest-Server/protect\_block\_area@b1ff54b)
+
+## Updates 2024-09-14
+
+* Lifted large-scale protection at SmushyVille
+
+## Updates 2024-09-08
+
+* Advtrains improvements
+    * Allow manually sorting of signal routes (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54927)
+    * Update influence point markers, and allow right-clicking them (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54931)
+    * Allow operate `on\_rightclick` nodes with track placers and wagon placers (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54932)
+
+## Updates 2024-09-06
+
+* Applied low-pass filter to sonic screwdriver sound (mt-mods/technic#377)
+* Use the first line of outside text as display text of 01700 series (SamMatzko/minetest-subways#13)
+
+## Updates 2024-09-04
+
+* Phonograph GUI improvements: (C-C-Minetest-Server/phonograph)
+    * Show a message about downloading songs (@0e76cd4)
+    * Update formspec when the phonograph is modified by others (@0e76cd4)
+    * Add Teacher tutorial link (@1c72e69)
+* Fix advtrains sometimes crashing when using formspec on no-longer-exist wagons (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54867)
+* Fix positional stereo sounds of sonic screwdrivers (mt-mods/technic#376)
+
+## Updates 2024-09-03
+
+* Fixed recipe of Industrial tank wagon and Industrial wood wagon (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54799)
+* Attempt to fix 5.9 network regression (minetest/minetest#15087)
+
+## Updates 2024-09-01
+
+* Added Vegan Butter (codeberg.org/tenplus1/farming@0addf04)
+* Fixed the following recipes:
+    * Vertical Slate (C-C-Minetest-Server/cottages@384e1ba)
+    * Gelatin Powder (codeberg.org/tenplus1/bonemeal@2a4ddd9)
+    * Garlic Butter Shrimp (codeberg.org/tenplus1/farming@0addf04)
+    * Teriyaki Chicken and Paella (C-C-Minetest-Server/twi\_mods@fa2542c)
+* Added direct recipe for every orientation of Advtrains wallmounted signals (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54800)
+* Hide Advtrains demo signals from the craftguide (C-C-Minetest-Server/twi\_mods@4db0de0)
+* Fixed coliision box and selection box of Ks Shunting Signals (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54619)
+* Fixed digging papyrus or bamboo with node digger or digtron crashing the server (minetest/minetest\_game#3133)
+* Added Sh2 signals (C-C-Minetest-Server/advtrains\_ks\_sh2)
+
+## Updates 2024-08-30
+
+* Changed Ethereal and Farming Redo textures from 32px to 16px
+* Added "public_farm" privilege to decide whether a player is permitted to use public farms (C-C-Minetest-Server/twi\_mods@ce47994)
+    * This privilege is granted by default, and is taken away only if players refuse to replant.
+* Fixed right-clicking nodes with protector blocks placing down the protector (C-C-Minetest-Server/protect\_block\_area@9217587)
+* Allow walking into 01700 Series and LRV Type 9 train wagons (SamMatzko/minetest-subways#11)
+* Opening platform gates / screen doors base on door position (C-C-Minetest-Server/advtrains\_doors@attempt-doors)
+* Fixed Chinese translation of "Subway" (C-C-Minetest-Server/trainblocks@c5345b2)
+* Non-CJK Ehlphabets: Switch back to Serif font (C-C-Minetest-Server/ehlphabet@c44a74f)
+
+## Updates 2024-08-28
+
+* Added the following albums by John Oestmann to Phonograph:
+    * _Soundworlds Datapedia: Volume II_ (C-C-Minetest-Server/phonograph\_album\_john\_oestmann@78e4d88)
+    * _Soundworlds Racing: Sands of Ouros (Season XVI)_  (C-C-Minetest-Server/phonograph\_album\_john\_oestmann@078e641)
+* Added "if you need help in non-English languages" in nearly every supported languages (C-C-Minetest-Server/twi\_mods@b27c078)
+* Added Ehlphabet Stickers, sticker-like node with white text and transparent background, made in the letter machine with glass panes (C-C-Minetest-Server/ehlphabet@67cbb99)
+* Removed black border of the apartment tile from apartment setup screen (C-C-Minetest-Server/apartment@ba28ea3)
+* Fixed "Failed to generate [sheet:4x4:3,4" errors (ElCeejo/animalia#93)
+
+## Updates 2024-08-27
+
+* Moved Spawn Public Farm to somewhere further away
+* Rules change: "Respect other players" -> "Be a good part of the community"
+
+## Updates 2024-08-24
+
+* Apply area protection on Digtron builder, automatic controller, and duplicator (minetest-mods/digtron#108)
+* Fix digtron owner moving twice when standing in front of their digtron (minetest-mods/digtron#110)
+* Fixed Ks signal collision boxes (https://lists.sr.ht/~gpcf/advtrains-devel/patches/54619)
+* Various Ehlphabet improvements (mainly C-C-Minetest-Server/ehlphabet@4c4fd8e)
+    * Renamed stickers to "Ehlphabet Sticker 'character'"
+    * Fixed ehlphabet block and sticker sounds
+    * Allow creating uppercase blocks/stickers from lowercase input
+    * Allow creating empty sticker with an empty string as the input
+    * Allow moving materieals in and products out by shift-clicking
+    * Disallow items other than matereials to go inside letter machines
+    * Allow crafting Chinese character stickers from alphabet stickers
+    * Added ehlphabet blocks and stickers of "非", "常", "可", "爱", "愛", "的" (@986c7fc)
+    * Fixed pressing enter closing the interface (@df76e8b)
+* Railway blocks improvements
+    * Line signs are no longer upside down on the back (C-C-Minetest-Server/trainblocks@f736a7d)
+    * Added recipies for the following nodes: (C-C-Minetest-Server/trainblocks@f79bdc9)
+        * Modern Station Signs (Directional), and hence Station Signs
+        * Mountain Railway Block
+        * No Pedestrians Sign (Normal and German)
+* Change wordings in lag recover restart message (will -> may) (C-C-Minetest-Server/lag\_recover@0f9105d)
+* Allow moving tools onto and out of an anvil by shift-clicking (only works on new anvil) (C-C-Minetest-Server/cottages@061b91d)
+* Fixed sounds of baskets (C-C-Minetest-Server/basket@8831966)
+* Show CC0 license notice of John Oestmann's musics (C-C-Minetest-Server/phonograph\_album\_john\_oestmann@f53a3f8)
+
+## Updates 2024-08-20
+
+* Fixed side texture of empty rubber tree trunk (C-C-Minetest-Server/twi\_mods@4615b59)
+* Server now restarts itself under extreme lag (C-C-Minetest-Server/lag\_recover)
+* Reject new usernames containing "admin" or "moderator" (C-C-Minetest-Server/twi\_mods@94ddffb)
+
+## Updates 2024-08-18
+
+* Temporary removed max light limit on rhubarb (C-C-Minetest-Server/twi\_mods@5a464c4)
+* Stop pineapples from overriding growing pineapples (C-C-Minetest-Server/twi\_mods@c15cc4f)
+* Fixed recipe of all-faced ethereal trees (C-C-Minetest-Server/ethereal\_all\_faces@be2e0a0)
+
+## Updates 2024-08-15
+
+* Fixed infotext not updating when placing down empty baskets (C-C-Minetest-Server/basket@c325667)
+* Fixed Mesecons on errata doors and trapdoors (C-C-Minetest-Server/minetest\_errata@e53ebe1)
+* Fixed selection box of rubber tree saplings (C-C-Minetest-Server/twi\_mods@91058b4)
+* Added "Helper" role (C-C-Minetest-Server/twi\_mods@0cc95d8)
+* Added Yuri, the Travelling Shoppe by John Oestmann to Spawn BGMs (C-C-Minetest-Server/twi\_mods@474b5b0)
+* Fixed Discord server link in random messages (C-C-Minetest-Server/twi\_mods@9213814)
+
 ## Updates 2024-08-14
 
 * Rubber tree features: (C-C-Minetest-Server/twi\_mods@e462a17)
