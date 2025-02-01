@@ -23,6 +23,164 @@ Other clients are not supported.
 
 ---
 
+## Updates 2024-12-31
+
+* Properly remove percent translation shortcuts containing Lua pattern characters (C-C-Minetest-Server/babelfish\_redo@e217b43)
+* Add LCD-themed sign font (https://codeberg.org/Nazalassa/font\_lcd)
+* Add LuaATC Textline Display (https://codeberg.org/Nazalassa/luaatc\_textline)
+* Allow helpers to set other's preferred language (C-C-Minetest-Server/twi\_mods@4763315)
+* Show language code in `/bblang` and `/bbset` (C-C-Minetest-Server/babelfish\_redo@782c6a5)
+* Split `/bbset` into `/bbset` and `/bbget` (C-C-Minetest-Server/babelfish\_redo@0bd9834)
+* Improve `/bmsg` feedbacks (C-C-Minetest-Server/babelfish\_redo@210bb95)
+* Yet another attempt to fix background music stacking up when pressing the day button too fast (C-C-Minetest-Server/background\_music@47a5bd2)
+* Allow translating chat messages into multiple languages by comma-seperating targets (C-C-Minetest-Server/babelfish\_redo@750e81f)
+* Translate incoming mail to player's preferred language (C-C-Minetest-Server/babelfish\_mail)
+* Fix opened platform screen door node box (C-C-Minetest-Server/advtrains\_doors@a796b50)
+* Allow displaying different contents on two sides of hanging displays (https://codeberg.org/Nazalassa/luaatc\_textline/pulls/1)
+* Fix LuaATC Textline orientation on MultiCraft clients (C-C-Minetest-Server/twi\_mods@ae2b468)
+
+## Updates 2024-12-30
+
+* Switch to Lingva translate, and a whole new translation mod (C-C-Minetest-Server/babelfish\_redo)
+
+## Updates 2024-12-28
+
+* Fix train gravel sounds (C-C-Minetest-Server/train\_gravels@5ae7726)
+* Allow translating messages in-game by the following methods: (C-C-Minetest-Server/babelfish)
+    * By adding `%<target code>` to messages;
+    * By setting preferred language with `/bblang <code>` and translate a player's last message with `/babel` (main channel only)
+    * Note that LibreTranslate gives poor detection results for CJK.
+
+## Updates 2024-12-27
+
+* Allow boarding wagons with irregular width from the platform (https://lists.sr.ht/~gpcf/advtrains-devel/patches/56618)
+* Prevent falling nodes from destroying digtrons (C-C-Minetest-Server/twi\_mods@28fe8fb)
+* Apply attach offset patch to boats and buses (C-C-Minetest-Server/linetrack@de5ecd4)
+* Stop forever-looping boat sounds (C-C-Minetest-Server/linetrack@de5ecd4)
+* Improve linetrack signal and TCB selection boxes (C-C-Minetest-Server/linetrack@6c96840)
+* Add Gravel on (Split) Stone Tile (C-C-Minetest-Server/train\_gravels@1676093)
+* Allow moderators to set up for sale signs for other players (C-C-Minetest-Server/um\_area\_forsale@969b4b0)
+* Add half-height cottage fences (C-C-Minetest-Server/cottages@057b88e)
+* Allow using Cod and Cichlid to feed cats (ElCeejo/animalia#73)
+* Allow cutting down Ethereal bamboo with chainsaw (mt-mods/technic#389)
+* Gazette issue 2024-12-26-02 (Gazette Delivery Service) will be sent to every new players (C-C-Minetest-Server/twi\_mods@625ab9e)
+
+## Updates 2024-12-24
+
+* Fixed door entry point of boats (C-C-Minetest-Server/linetrack@1bb9792)
+* Open doors on platforms for non-standard width (e.g. boats) (C-C-Minetest-Server/advtrains\_doors@aab0aea)
+
+## Updates 2024-12-23
+
+* Added rubber wood banisters (C-C-Minetest-Server/twi\_mods@73fe561)
+* Rotated banisters textures of some ethereal wood types (C-C-Minetest-Server/banisters@0b275cd)
+* Added left- and right-fixed platform screens and doors (C-C-Minetest-Server/advtrains\_doors@7780436)
+* Added concrete platform screens and doors (C-C-Minetest-Server/advtrains\_doors@fdeab12)
+* Added platform doors that opens downwards (C-C-Minetest-Server/advtrains\_doors@8f2d433)
+* Added Advtrains-based boats (C-C-Minetest-Server/linetrack)
+* Added bakedclay and terracotta platform doors (C-C-Minetest-Server/advtrains\_doors@5b84d2c)
+
+## Updates 2024-12-20
+
+* Fix sending a copy to the sender themselves when using moderators and admin mailing list (C-C-Minetest-Server/admin\_mail@c36d994)
+* Allow sending mail to all helpers (incl. admin and moderators) via `additional\_role:helper` (C-C-Minetest-Server/twi\_mods@357562b)
+* Allow moderators to send mail to everyone using `$everyone` (C-C-Minetest-Server/mail\_everyone)
+
+## Updates 2024-12-15
+
+* Added Christmas decorators and gifts (C-C-Minetest-Server/simple\_christmas)
+
+## Updates 2024-12-07
+
+* Allow opening platform doors from inside (and from outside for track builders) (C-C-Minetest-Server/advtrains\_doors@9a97735)
+* Merged Technic CNC slopes and moreblocks slopes (C-C-Minetest-Server/twi\_mods@90b4ae9)
+
+## Updates 2024-11-30
+
+* Replaced "Are you new?" signs at Spawn with "Want to build?"
+
+## Updates 2024-11-17
+
+* Allowing stacking bricks on another (C-C-Minetest-Server/stackbricks)
+
+## Updates 2024-11-16
+
+* Advtrains: Increased max speed of Night Line Seat Wagon to 30 m/s (C-C-Minetest-Server/twi\_mods@79e97ef)
+
+## Updates 2024-11-14
+
+* Banned the N-word and the F-word on new player usernames (C-C-Minetest-Server/twi\_mods@fdd344a)
+
+## Updates 2024-11-07
+
+* Phonograph updates:
+    * Added Black Bass Blues by Elm Shadow (Elementalcraft) (C-C-Minetest-Server/phonograph_album_elm_shadow)
+    * Added LoFi, Ride and Neon Lights by Helena Bolan (HelenasaurusRex) (C-C-Minetest-Server/phonograph_album_helena)
+* Fixes falling node not turning into nodes (minetest/minetest#15378)
+
+## Updates 2024-11-05
+
+* Spawn Line trains now stop at Yantian Road again
+
+## Updates 2024-11-03
+
+* Apply protection on datacard diskdrives (C-C-Minetest-Server/datacard@770e2e1)
+* Added tree log spikes (codeberg.org/SilverSandstone/logspikes)
+* Plants and grass are now floodable (AFCMS/farming\_flood)
+* Added height-extended platform gates (C-C-Minetest-Server/advtrains\_doors@13283b3)
+
+## Updates 2024-10-31
+
+* Railway Updates:
+    * Spawn Line is now a loop line.
+    * E2 no longer serves North Luciopoli as the Spawn Line serves its role.
+
+## Updates 2024-10-30
+
+* Reduced the Islands Line to Spawn Island, and added Mountain Foot and Lianyi Road to the Spawn Line
+
+## Updates 2024-10-27
+
+* IDs of deleted areas are no longer reused (minetest-mods/areas#83)
+    * They are reused only if the server restarts.
+* Removed the problemic recipe of Vertical wooden roof (C-C-Minetest-Server/cottages@7abadb9)
+
+## Updates 2024-10-25
+
+* Tutorial guiding newcomers to the Public Mine (C-C-Minetest-Server/twi\_mods@8038bb2)
+* Added gravel on more stone bricks (C-C-Minetest-Server/train\_gravels@d8843c9)
+* Fixed background music often malfunctioning when using the day button (C-C-Minetest-Server/background\_music@7ad5831)
+* Moderators: added `/day` command which handles everything (C-C-Minetest-Server/twi\_mods@97494b2)
+* Allow digging pipeworks filter-injectors without clearing its filter (mt-mods/pipeworks#141)
+* Revert "Allow using `getstate()` on Ks Main and Shunting signals" (C-C-Minetest-Server/advtrains@914387b)
+* Cottage updates: (C-C-Minetest-Server/cottages)
+    * Added inner and outer corner cottage roofs (@99c7250)
+    * Added verical roofs (@11fa08b)
+    * Allowed using circular saw on Clay Block and Loam (@35572b2)
+* Advtrains updates:
+    * Added the Vacuum Wagon (https://notabug.org/Maverick2797/advtrains-vactrain/)
+    * Increased speed limit of the following train wagons to 30 m/s: (C-C-Minetest-Server/twi\_mods@213537d)
+        * DLX Diesel Locomotives
+        * Moretrains Night Line Couchette and Seat Wagon
+        * Moretrains Railroad Car
+        * Moretrains Industrial wood wagons
+        * Moretrains Industrial tank wagons
+        * Moretrains Gondola wagons
+* Optimize mapblock sending for fast-moving clients (Emojigit/minetest@7658de8c8)
+* Show helpers in /list\_mods (C-C-Minetest-Server/twi\_mods@a2457a1)
+
+## Updates 2024-10-21
+
+* Wiki: Changed default skin to Citizen
+
+## Updates 2024-10-17
+
+* `[REVERTED]` Advtrains: Allow using `getstate()` on Ks Main and Shunting signals (https://lists.sr.ht/~gpcf/advtrains-devel/patches/55484)
+
+## Updates 2024-10-15
+
+* Enabled Email on the Wiki
+
 ## Updates 2024-10-11
 
 * Added Saber plushie from Fate/stay night (C-C-Minetest-Server/fumoplushies@6c682d3)
